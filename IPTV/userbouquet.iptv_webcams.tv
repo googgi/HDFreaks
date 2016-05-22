@@ -117,8 +117,6 @@
 #DESCRIPTION Webcam: RUS - St. Petersburg
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video1.earthcam.com/fecnetwork/hotelvictoria2.flv/HasBahCa.m3u8:Webcam%3a Ungarn - Budapest
 #DESCRIPTION Webcam: Ungarn - Budapest
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv23_720p.stream:Webcam%3a Schweiz - Zoo in Zürich
-#DESCRIPTION Webcam: Schweiz - Zoo in Zürich
 #SERVICE 1:64:F:0:0:0:0:0:0:0::USA
 #DESCRIPTION USA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video4.earthcam.com/fecnetwork/5718.flv/playlist.m3u8:Webcam%3a Daytona Beach (USA)
@@ -137,6 +135,42 @@
 #DESCRIPTION Webcam: Lax Airport (USA)
 #SERVICE 1:64:10:0:0:0:0:0:0:0::Sonstige
 #DESCRIPTION Sonstige
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//201.219.100.30%3a1935/camara-bunge/camara-bunge.stream/live.m3u8:Webcam%3a Argentinien - BUNGE Y EL MAR
+#DESCRIPTION Webcam: Argentinien - BUNGE Y EL MAR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video4.earthcam.com/fecnetwork/6593.flv/playlist.m3u8:Webcam%3a Brasilien - Copacabana - Rio de Janeiro
+#DESCRIPTION Webcam: Brasilien - Copacabana - Rio de Janeiro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//69.46.0.170%3a1935/santuario_aparecida/canal5.stream/live.m3u8:Webcam%3a Brasilien - SANTUARIO DE APARECIDA - ALTAR CENTRAL
+#DESCRIPTION Webcam: Brasilien - SANTUARIO DE APARECIDA - ALTAR CENTRAL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//69.46.0.170%3a1935/santuario_aparecida/canal6.stream/live.m3u8:Webcam%3a Brasilien - SANTUARIO DE APARECIDA - SANTUARIO NACIONAL
+#DESCRIPTION Webcam: Brasilien - SANTUARIO DE APARECIDA - SANTUARIO NACIONAL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//EU40.cast-tv.com%3a1935/23595_LIVE_Kotel_Live/23595_LIVE_Kotel_Live:Webcam%3a Israel - Klagemauer
+#DESCRIPTION Webcam: Israel - Klagemauer
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video1.earthcam.com/fecnetwork/4559.flv/hasbahca.m3u8:Webcam%3a Kanada - Niagara Fälle
+#DESCRIPTION Webcam: Kanada - Niagara Fälle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video1.earthcam.com/fecnetwork/tokyo1.flv/hasbahca.m3u:Webcam%3a Japan - Tokyo
+#DESCRIPTION Webcam: Japan - Tokyo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video4.earthcam.com/fecnetwork/5868.flv/playlist.m3u8:Webcam%3a VAE - Dubai Palme-Skyline
+#DESCRIPTION Webcam: VAE - Dubai Palme-Skyline
+#SERVICE 1:64:10:0:0:0:0:0:0:0::Tiere - Natur
+#DESCRIPTION Tiere - Natur
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3a//193.40.133.138/live/merikotkas:Webcam%3a Merikotkas
+#DESCRIPTION Webcam: Merikotkas
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3a//193.40.133.138/live/hiireviu:Webcam%3a Hiireviu
+#DESCRIPTION Webcam: Hiireviu
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3a//193.40.133.138/live/kalakotkas:Webcam%3a Kalakotkas
+#DESCRIPTION Webcam: Kalakotkas
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3a//193.40.133.138/live/kalakotkas2:Webcam%3a Kalakotkas2
+#DESCRIPTION Webcam: Kalakotkas2
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3a//193.40.133.138/live/kakk:Webcam%3a Kakk
+#DESCRIPTION Webcam: Kakk
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3a//193.40.133.138/live/must-toonekurg:Webcam%3a Must-Toonekurg
+#DESCRIPTION Webcam: Must-Toonekurg
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3a//193.40.133.138/live/hyljes:Webcam%3a Hyljes
+#DESCRIPTION Webcam: Hyljes
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3a//193.40.133.138/live/kasmu:Webcam%3a Kasmu
+#DESCRIPTION Webcam: Kasmu
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3a//193.40.133.138/live/mager:Webcam%3a Mager
+#DESCRIPTION Webcam: Mager
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//206.190.152.218%3a1935/rtsp-distribution/mp4%3awil-safari-01.stream/playlist.m3u8:Webcam%3a Afrika - SAFARI TV 1
 #DESCRIPTION Webcam: Afrika - SAFARI TV 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//209.95.38.34%3a1935/rtsp-distribution/mp4%3aart-cam-01.stream/playlist.m3u8:Webcam%3a Afrika - SAFARI TV 2
@@ -153,21 +187,7 @@
 #DESCRIPTION Webcam: Afrika - SAFARI TV 7
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//206.190.152.218%3a1935/rtsp-distribution/mp4%3atau-lodge-01.stream/playlist.m3u8:Webcam%3a Afrika - SAFARI TV 8
 #DESCRIPTION Webcam: Afrika - SAFARI TV 8
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//201.219.100.30%3a1935/camara-bunge/camara-bunge.stream/live.m3u8:Webcam%3a Argentinien - BUNGE Y EL MAR
-#DESCRIPTION Webcam: Argentinien - BUNGE Y EL MAR
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video4.earthcam.com/fecnetwork/6593.flv/playlist.m3u8:Webcam%3a Brasilien - Copacabana - Rio de Janeiro
-#DESCRIPTION Webcam: Brasilien - Copacabana - Rio de Janeiro
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//69.46.0.170%3a1935/santuario_aparecida/canal5.stream/live.m3u8:Webcam%3a Brasilien - SANTUARIO DE APARECIDA - ALTAR CENTRAL
-#DESCRIPTION Webcam: Brasilien - SANTUARIO DE APARECIDA - ALTAR CENTRAL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//69.46.0.170%3a1935/santuario_aparecida/canal6.stream/live.m3u8:Webcam%3a Brasilien - SANTUARIO DE APARECIDA - SANTUARIO NACIONAL
-#DESCRIPTION Webcam: Brasilien - SANTUARIO DE APARECIDA - SANTUARIO NACIONAL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video1.earthcam.com/fecnetwork/4338.flv/HasBahCa.m3u8:Webcam%3a Indonesien - Bali - Elefanten Pool
 #DESCRIPTION Webcam: Indonesien - Bali - Elefanten Pool
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//EU40.cast-tv.com%3a1935/23595_LIVE_Kotel_Live/23595_LIVE_Kotel_Live:Webcam%3a Israel - Klagemauer
-#DESCRIPTION Webcam: Israel - Klagemauer
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video1.earthcam.com/fecnetwork/4559.flv/hasbahca.m3u8:Webcam%3a Kanada - Niagara Fälle
-#DESCRIPTION Webcam: Kanada - Niagara Fälle
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video1.earthcam.com/fecnetwork/tokyo1.flv/hasbahca.m3u:Webcam%3a Japan - Tokyo
-#DESCRIPTION Webcam: Japan - Tokyo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video4.earthcam.com/fecnetwork/5868.flv/playlist.m3u8:Webcam%3a VAE - Dubai Palme-Skyline
-#DESCRIPTION Webcam: VAE - Dubai Palme-Skyline
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv23_720p.stream:Webcam%3a Zoo in Zürich
+#DESCRIPTION Webcam: Zoo in Zürich
